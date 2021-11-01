@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/* Element, .class, #id, element element, element.class, #id.class * */
+/* .example--1 {
+    background-color: coral;
+
+}
+
+#heading1 {
+
+}
+
+section p {
+    line-height: 1.7;
+
+}
+
+.example__title {
+    color: lawngreen;
+}
+
+p.text {
+    color: navy;
+}
+
+#heading1.example__title {
+    color: cornsilk;
+} */
+
+ /* Element + element, element > element, element * */
+
+/* .example--2{
+    background-color: darkcyan;
+}
+
+.example--2 .example__title + p {
+
+}
+
+.example--2 p + p {
+    color: darkmagenta;
+}
+
+.example--2 p {
+    text-decoration: underline;
+}
+
+.example--3 {
+    background-color: darksalmon;
+}
+
+.example--4{
+    background-color: cadetblue;
+} */
+
+.hero {
+  background-color: red;
+}
